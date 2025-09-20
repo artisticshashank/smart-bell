@@ -9,8 +9,6 @@ You can try installing the app by clicking here👉 [![Download](https://img.shi
 ![Stars](https://img.shields.io/github/stars/artisticshashank/smart-bell?style=social)
 ![Forks](https://img.shields.io/github/forks/artisticshashank/smart-bell?style=social)
 
-![Smart Bell App Preview](/preview_example.png)
-_A glimpse of the Smart Bell application in action._
 
 
 ## ✨ Features
